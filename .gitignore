@@ -1,0 +1,27 @@
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# IDEs und Editoren
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+.vs/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build-Dateien
+dist/
+build/
+*.min.js
+
+# Sonstiges
+*.log
+.env
+.env.local 
